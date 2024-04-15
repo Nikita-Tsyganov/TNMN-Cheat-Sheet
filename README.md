@@ -1,2 +1,2 @@
-# TNMN-Cheat-Sheet
-A cheat sheet for That's Not My Neighbor game.
+# That's not my neighbor cheat sheet
+A cheat sheet for the That's not my neighbor game.
