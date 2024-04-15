@@ -1,0 +1,25 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+  "name": "That's not my neighbor cheat sheet",
+  "short_name": "TNMN Cheat Sheet",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "scope": "/",
+  "id": "thats-not-my-neighbor-cheat-sheet",
+  "start_url": "/index.html",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "portrait"
+}
